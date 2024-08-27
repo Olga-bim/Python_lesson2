@@ -136,4 +136,23 @@
 ## # Преобразует строки в словари с индексами в качестве ключей
         # df.to_json(json_file, orient='index')  
 
-## 12. 
+# 12. DataBases
+## - Oracle
+## - Microsoft
+## - IBM 
+
+# 13. SQL управление базами данных
+##  DDl data Definition Langurdge используется для определения и управления структурой базы данных
+### create
+### drop
+### alter
+
+## DML Data Manipulation Language используется для манипуляции данными в таблицах.
+
+## Select
+    SELECT * From CUstomers   ## столбцы
+## Where
+    Where Country = "Germany"  ## строки
+
+    
+
